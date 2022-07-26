@@ -2,7 +2,7 @@ package com.dio;
 
 public class Main {
     public static void main(String[] args) {
-   // Não dá "console.log" em valores vazios
+   // Não dá "console.log" em valores vazios  
         int i = 1;
         int I;
         I = 2;
