@@ -1,4 +1,4 @@
-package com.metodos.emprestimo;
+package com.metodos.criacao.emprestimo;
 
 public class Emprestimo {
     public static int getDuasParcelas() {

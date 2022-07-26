@@ -1,4 +1,4 @@
-package com.metodos.calculadora;
+package com.metodos.criacao.calculadora;
 
 // Os números serão definidos em Main, quando chamar o método.
 public class Calculadora {
